@@ -6,7 +6,7 @@ LOGIC4 = "https://prod-26.northeurope.logic.azure.com/workflows/8a5f5547da974fed
 LOGIC5 = "https://prod-15.northeurope.logic.azure.com/workflows/c990d4465cde4b4a872f855c8b5f6dfd/triggers/manual/paths/invoke/rest/v1/videodata/"
 LOGIC51 = "?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=jC5oeZ-goKFWZIujOS_IugSkRJELWDRgP5ajP771JWA"
 
-BLOB_ACCOUNT = "https://hopethatstorage.blob.core.windows.net";
+BLOB_ACCOUNT = "https://gkbstorage.blob.core.windows.net/";
 
 
 //Handlers for button clicks
